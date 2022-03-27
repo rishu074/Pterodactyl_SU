@@ -33,6 +33,14 @@ This project is used by the following companies:
 - DNxRG Paid Hosting Services
 - Loudnire Paid Hosting Services
 - RozutNodes Free Hosting Services
+
+
+
+## Authors
+
+- [@DNxRG_Development](https://github.com/DNxRG)
+
+
 - Hostora Free Webhosting Hosting Services
 - The DNxRG Development Team/Group
 
