@@ -25,3 +25,14 @@ A Simple step To use it
 bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ptero_database_repo_main/main/everything_in_one/main.sh)
 ```
     
+## Used By
+
+This project is used by the following companies:
+
+- DNxRG Free Hosting Services
+- DNxRG Paid Hosting Services
+- Loudnire Paid Hosting Services
+- RozutNodes Free Hosting Services
+- Hostora Free Webhosting Hosting Services
+- The DNxRG Development Team/Group
+
