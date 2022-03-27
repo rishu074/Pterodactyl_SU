@@ -10,6 +10,7 @@ Completely Not For Ease Of MY Life :)
 
 - Installs Desired SWAP With EZ
 - Panel Migrations
+- Fixed 0 CPU and 0 RAM Bug
 - Beginner Friendly
 - Create Databases For Pterodactyl
 - Perform Wing Migrations
